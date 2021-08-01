@@ -1,0 +1,39 @@
+@font-face {
+    font-family: "IbarraRealSemiBold";
+    src: 
+    url("../fonts/IbarraRealNova-SemiBold.woff2") format("woff2"),
+    url("../fonts/IbarraRealNova-SemiBold.woff") format("woff");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "IbarraRealNovaRegular";
+    src: 
+    url("../fonts/IbarraRealNova-Bold.woff2") format("woff2"),
+    url("../fonts/IbarraRealNova-Bold.woff") format("woff");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "PublicSansRegular";
+    src: 
+    url("../fonts/PublicSans-Regular.woff2") format("woff2"),
+    url("../fonts/PublicSans-Regular.woff") format("woff");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "PublicSansLight";
+    src: 
+    url("../fonts/PublicSans-Light.woff2") format("woff2"),
+    url("../fonts/PublicSans-Light.woff") format("woff");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
